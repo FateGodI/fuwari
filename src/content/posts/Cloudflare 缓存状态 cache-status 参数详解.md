@@ -1,11 +1,12 @@
 ---
 title: Cloudflare 缓存状态 cache-status 参数详解
-published:
+published: 2026-01-12
+updated: 2026-01-12
 description: CloudFlare cache-status 五种状态及补充
 tags:
   - 教程-笔记
 category: 记录
-image: ./src/assets/images/CF_logo-2048x1162.png
+draft: false
 ---
 **cache-status 五种状态及补充**
 
