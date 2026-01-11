@@ -48,16 +48,16 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.jpg", // 替换头像
-	name: "404 Blog", // 修改昵称
+	avatar: "assets/images/demo-avatar.png", // 头像
+	name: "404 Blog", // 昵称
 	bio: "技术探索、代码分享与日常思考", // 个人简介
-	//links: [
-	//	{
-	//		name: "GitHub",
-	//		icon: "fa6-brands:github", // GitHub图标
-	//		url: "https://github.com/FateGodI", // GitHub主页地址
-	//	},
-		// 更多社交链接，例如：
+	links: [
+		//{
+		//	name: "GitHub",
+		//	icon: "fa6-brands:github", // GitHub图标
+		//	url: "https://github.com/FateGodI", // GitHub主页地址
+		//},
+		// 社交链接：
 		// {
 		// 	name: "Twitter",
 		// 	icon: "fa6-brands:twitter",
@@ -65,10 +65,10 @@ export const profileConfig: ProfileConfig = {
 		// },
 		// {
 		// 	name: "Email",
-		// 	icon: "fa6-solid:envelope",s
+		// 	icon: "fa6-solid:envelope",
 		// 	url: "mailto:support@404bbs.com",
 		// },
-	//],
+	],
 };
 
 export const licenseConfig: LicenseConfig = {
