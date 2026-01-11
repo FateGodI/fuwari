@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // 头像
+	avatar: "assets/images/avatar.jpg", // 头像
 	name: "404 Blog", // 昵称
 	bio: "技术探索、代码分享与日常思考", // 个人简介
 	links: [
