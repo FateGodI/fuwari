@@ -1,16 +1,14 @@
 ---
-
 title: 自建图床完美对接PicGo 实现图床自由 第一篇 — 兰空图床
 published: 2026-01-12
 updated: 2026-01-12
 description: 兰空图床对接PicGo
 tags:
-
-- 教程-笔记
-  category: 记录
-  draft: false
-
+  - 教程-笔记
+category: 记录
+draft: false
 ---
+
 
 兰空图床是一款开源极简便捷式图床，集大能与一体，可以说是非常好用，搭建简单，使用方便！ 
 兰空图床分为：**开源版 | 企业版 | 付费版** 
