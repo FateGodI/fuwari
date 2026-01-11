@@ -34,18 +34,18 @@ export const siteConfig: SiteConfig = {
 	],
 };
 
-//export const navBarConfig: NavBarConfig = {
-//	links: [
-//		LinkPreset.Home,
-//		LinkPreset.Archive,
-//		LinkPreset.About,
-//		{
-//			name: "GitHub",
-//			url: "https://github.com/FateGodI/fuwari", // 更新为您的GitHub仓库地址
-//			external: true, // 显示外部链接图标并在新标签页打开
-//		},
-//	],
-//};
+export const navBarConfig: NavBarConfig = {
+	links: [
+		LinkPreset.Home,
+		LinkPreset.Archive,
+		LinkPreset.About,
+		//{
+		//	name: "GitHub",
+		//	url: "https://github.com/FateGodI/fuwari", // 更新为您的GitHub仓库地址
+		//	external: true, // 显示外部链接图标并在新标签页打开
+		//},
+	],
+};
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // 头像
