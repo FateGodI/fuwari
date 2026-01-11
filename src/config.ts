@@ -8,12 +8,12 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "404blog",  // 修改为您的网站名
+	title: "404 Blog",  // 网站名
 	subtitle: "技术探索与分享",
 	lang: "zh_CN", // 语言代码
 	themeColor: {
-		hue: 250, // 主题色色调
-		fixed: false, // 是否对访客隐藏主题色选择器
+		hue: 40, // 主题色色调
+		fixed: true, // 是否对访客隐藏主题色选择器
 	},
 	banner: {
 		enable: false, // 可以设置为 true 并在 public 目录添加 banner.png
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // 您可以替换为自己的头像
-	name: "404blog", // 修改为您的名字或昵称
+	name: "404 Blog", // 修改为您的名字或昵称
 	bio: "技术探索、代码分享与日常思考", // 更新个人简介
 	links: [
 		{
@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 		// {
 		// 	name: "Email",
 		// 	icon: "fa6-solid:envelope",
-		// 	url: "mailto:your.email@example.com",
+		// 	url: "mailto:support@404bbs.com",
 		// },
 	],
 };
