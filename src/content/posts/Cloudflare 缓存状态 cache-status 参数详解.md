@@ -5,7 +5,7 @@ description: CloudFlare cache-status 五种状态及补充
 tags:
   - 教程-笔记
 category: 记录
-image: ./CF_logo-2048x1162.png
+image: ./src/assets/images/CF_logo-2048x1162.png
 ---
 **cache-status 五种状态及补充**
 
