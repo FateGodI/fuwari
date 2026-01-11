@@ -1,3 +1,15 @@
+---
+title:
+published: 2026-01-12
+updated: 2026-01-12
+description: 年底免费兑话费
+image:
+tags:
+  - 教程-笔记
+category: 记录
+draft: false
+---
+
 **年底三大运营商发送短信积分兑换话费的方法**
 
  移动用户编辑「**HF**」发送至**10658999**；
