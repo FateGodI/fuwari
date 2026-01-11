@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phone-credit.md",
+                "file": "video.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phone-credit"
+              "title": "video"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phone-credit.md",
+                "file": "video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "phone-credit 的反向链接列表"
+              "title": "video 的反向链接列表"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phone-credit.md",
+                "file": "video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "phone-credit 的出链列表"
+              "title": "video 的出链列表"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phone-credit.md",
+                "file": "video.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "phone-credit 的大纲"
+              "title": "video 的大纲"
             }
           }
         ]
@@ -198,13 +198,13 @@
   },
   "active": "fba23fa9687f0466",
   "lastOpenFiles": [
-    "markdown-extended.md",
-    "phone-credit.md",
-    "markdown.md",
     "guide/cover.jpeg",
     "guide/index.md",
     "draft.md",
     "expressive-code.md",
-    "video.md"
+    "markdown.md",
+    "markdown-extended.md",
+    "video.md",
+    "phone-credit.md"
   ]
 }
