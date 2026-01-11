@@ -196,17 +196,17 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "fa31ffb54484e04c",
+  "active": "fba23fa9687f0466",
   "lastOpenFiles": [
-    "测试文件.md",
+    "guide/index.md",
+    "guide/cover.jpeg",
     "提交步骤记录.md",
+    "expressive-code.md",
+    "测试文件.md",
     "phone-credit.md",
     "draft.md",
     "markdown.md",
     "video.md",
-    "guide/cover.jpeg",
-    "guide/index.md",
-    "expressive-code.md",
     "markdown-extended.md"
   ]
 }
