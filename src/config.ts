@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "404 Blog",  // 网站名
+	title: "四绫の博客",  // 网站名
 	subtitle: "技术探索与分享",
 	lang: "zh_CN", // 语言代码
 	themeColor: {
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // 头像
-	name: "404 Blog", // 昵称
+	name: "四绫", // 昵称
 	bio: "技术探索、代码分享与日常思考", // 个人简介
 	links: [
 		{
